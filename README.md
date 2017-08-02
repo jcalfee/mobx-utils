@@ -104,8 +104,8 @@ so make sure that you don't dereference to early.
 
 **Parameters**
 
--   `initialValue` **T?** optional initialValue that will be returned from `current` as long as the `sink` has not been called at least once (optional, default `undefined`)
 -   `fetch`  
+-   `initialValue` **T?** optional initialValue that will be returned from `current` as long as the `sink` has not been called at least once (optional, default `undefined`)
 -   `modifier`  
 
 **Examples**
